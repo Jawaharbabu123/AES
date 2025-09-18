@@ -21,7 +21,7 @@ void xor_encrypt_decrypt(char *input, char *key) {
 }
 
 int main() {
-    char url[] = "WELCOME";
+    char url[] = "JAWAHAR";
     char key[] = "secretkey";
     
     printf("Original text: %s\n", url);
@@ -36,9 +36,7 @@ int main() {
 
 # OUTPUT:
 
-<img width="459" height="160" alt="Screenshot 2025-09-18 091035" src="https://github.com/user-attachments/assets/f2257d7e-6e50-4830-ae4e-7aea0434b6e7" />
-
-
+<img width="423" height="299" alt="Screenshot 2025-09-18 091455" src="https://github.com/user-attachments/assets/d897e01c-e01b-4976-a634-2ee74984976b" />
 
 # RESULT:
 Thus code for Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is executed successfully.
